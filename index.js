@@ -19,7 +19,3 @@ mongoose.connect(DB_CONNECT)
 .catch( (err) => {
     console.log(err)
 })
-
-//GbMarques
-//E7pNs4Y5rDx0YuLc
-//mongodb+srv://GbMarques:E7pNs4Y5rDx0YuLc@cluster0.bxuimul.mongodb.net/?retryWrites=true&w=majority//
